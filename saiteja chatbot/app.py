@@ -3,7 +3,7 @@ import google.generativeai as genai
 import os
 
 # Configure Google Generative AI API
-GOOGLE_API_KEY = "AIzaSyAjMEIeQ0q6Pnnh9vKBH_0KUWcJ9CDNaK8"
+GOOGLE_API_KEY = "use your own api key here"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Initialize Generative AI Chat Model
